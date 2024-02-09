@@ -4,11 +4,6 @@
 
 <p align="left">Breathing adaptability<br>I like getting my hands dirty in all technologies.</p>
 
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitmarcus&label=Profile%20views&color=0e75b6&style=flat" alt="mitmarcus" /> </p>
-
-###
 
 <h2 align="left">About me</h2>
 
@@ -41,3 +36,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitmarcus&label=Profile%20views&color=0e75b6&style=flat" alt="mitmarcus" /> </p>
+
+###
