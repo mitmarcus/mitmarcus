@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since... 🌈please don't ask about that, my bugs are shy🌈<br><br>🎯 Goals: Getting my hands hands dirty with as many technologies as I can!<br><br>🎲 Fun fact: Acoustic Kitty was a CIA project launched by their Directorate of Science & Technology in the 1960s, which intended to use cats to spy on the Kremlin and Soviet embassies. The cost for the project?</p>
+<p align="left">✨ Creating bugs since... 🌈please don't ask about that, my bugs are shy🌈<br><br>🎯 Goals: Getting my hands hands dirty with as many technologies as I can!<br><br>🎲 Fun fact: Acoustic Kitty was a CIA project launched by their Directorate of Science & Technology in the 1960s, which intended to use cats to spy on the Kremlin and Soviet embassies. The cost for the project? $20 million</p>
 
 ###
 
